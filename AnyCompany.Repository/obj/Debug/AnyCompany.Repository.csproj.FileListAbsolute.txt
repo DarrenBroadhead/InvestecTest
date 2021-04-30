@@ -1,0 +1,9 @@
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\bin\Debug\AnyCompany.Repository.dll
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\bin\Debug\AnyCompany.Repository.pdb
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\bin\Debug\AnyCompany.Model.dll
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\bin\Debug\AnyCompany.Model.pdb
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\obj\Debug\AnyCompany.Repository.csprojAssemblyReference.cache
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\obj\Debug\AnyCompany.Repository.csproj.CoreCompileInputs.cache
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\obj\Debug\AnyCompany.Repository.csproj.CopyComplete
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\obj\Debug\AnyCompany.Repository.dll
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Repository\obj\Debug\AnyCompany.Repository.pdb

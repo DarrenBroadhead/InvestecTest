@@ -1,0 +1,6 @@
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\bin\Debug\AnyCompany.Model.dll
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\bin\Debug\AnyCompany.Model.pdb
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\obj\Debug\AnyCompany.Model.csprojAssemblyReference.cache
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\obj\Debug\AnyCompany.Model.csproj.CoreCompileInputs.cache
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\obj\Debug\AnyCompany.Model.dll
+C:\Darren\Extracted\tech-test-master\TechTest\AnyCompany.Model\obj\Debug\AnyCompany.Model.pdb

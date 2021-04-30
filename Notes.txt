@@ -1,0 +1,1 @@
+Please run the sql script in the Database/Scripts directory. It includes everythging (login and creation of database etc.)

@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd9a3da3_002D162c_002D4548_002Da3ab_002D92bac0dd2329/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlaceOrder" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::E02690F1-EFA1-4E2F-AA28-406759004BA2::.NETFramework,Version=v4.6.1::AnyCompany.UnitTest.CustomerUnitTest.LoadAllTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E02690F1-EFA1-4E2F-AA28-406759004BA2::.NETFramework,Version=v4.6.1::AnyCompany.UnitTest.OrderUnitTest.PlaceNonUkOrderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E02690F1-EFA1-4E2F-AA28-406759004BA2::.NETFramework,Version=v4.6.1::AnyCompany.UnitTest.OrderUnitTest.PlaceUkOrderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E02690F1-EFA1-4E2F-AA28-406759004BA2::.NETFramework,Version=v4.6.1::AnyCompany.UnitTest.OrderUnitTest.PlaceZeroAmountOrderTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
